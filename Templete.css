@@ -1,0 +1,62 @@
+body {
+	font-family: helvetica;
+}
+
+#header {
+	background-color : salmon;
+	text-align: center;
+	height: 50px;
+	line-height: 50px
+}
+
+h2 {
+	font-weight: bold;
+	color: white;
+}
+
+.row {
+	margin: 10px 10px;
+	border: 2px solid salmon;
+}
+.row1 {
+	padding:7px;
+}
+.row2 {
+	padding:7px;
+}
+.row3 {
+	padding:7px;
+}
+.options {
+	padding: 5px;
+}
+#results {
+	margin: 10px 20px 10px 0px;
+}
+
+.people-row {
+	margin: 5px 0px;
+	padding: 10px;
+	background-color: salmon;
+	width: 100%;
+	float: left;
+
+}
+.people-row img {
+	float: left;
+	margin: 10px;
+}
+.people-info {
+	margin: 10px 10px 10px 10px; 
+	float: left;
+	font-style: italic;
+}
+.people-row button {
+	float: right;
+	font-size: 15px;
+}
+#searchBtn {
+	background-color: salmon;
+	border-radius: 20%;
+}
+
